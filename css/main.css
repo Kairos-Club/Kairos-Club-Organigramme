@@ -178,8 +178,7 @@ html, body {
   min-height: 100%;
   padding: 0;
   margin: 0;
-  cursor: default;
-  overflow: hidden; }
+  cursor: default; }
 
 .content {
   margin: 20px; }
@@ -213,6 +212,8 @@ code {
     margin: 5px;
     /* and that, will result in a 10px gap */ }
   .flex-container .flex-item {
+    width: 100%;
+    max-width: 400px;
     padding: 0;
     border: 2px solid #EEEEEE;
     border-radius: 5px;
