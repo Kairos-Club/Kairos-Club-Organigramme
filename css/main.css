@@ -181,7 +181,7 @@ html, body {
   cursor: default; }
 
 .content {
-  margin: 20px; }
+  margin: 20px 20px 25vh; }
 
 h1 {
   font-family: 'slurpetteregular', Arial, Helvetica, sans-serif;
