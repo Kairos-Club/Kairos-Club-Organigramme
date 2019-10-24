@@ -245,6 +245,14 @@ a {
   text-decoration: none;
 }
 
+code {
+  background-color: #EEEEEE;
+  border-radius: 2px;
+  padding: 3px 6px;
+  font-family: sans-serif;
+  font-size: small;
+}
+
 .flex-container {
 
   display: flex;
@@ -253,21 +261,29 @@ a {
   justify-content: left;
   align-items: stretch;
 
+  padding:5px; /* this */
+  margin: -10px;
+
+  > .flex-item {
+    //flex:1 1 auto;
+    margin:5px;  /* and that, will result in a 10px gap */
+  }
+
   .flex-item {
     //width: 100%;
     //max-width: 400px;
 
-    padding: 0px;
-    margin: 5px;
-    border: 1px solid #eeeeee;
+    padding: 0;
+    border: 2px solid #EEEEEE;
 
     border-radius: 5px;
     overflow: hidden;
+    color: inherit;
 
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    //box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
 
     .cp_embed_wrapper {
-      margin: -1px !important;
+      margin: -1px;
     }
   }
 }

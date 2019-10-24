@@ -81,6 +81,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/avatar-default-hd.png": {
+		"ft": 32768,
+		"iS": 23827,
+		"oA": 0,
+		"oAP": "/avatar/avatar-default-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/avatar-default.png": {
+		"ft": 32768,
+		"iS": 1736,
+		"oA": 0,
+		"oAP": "/avatar/avatar-default.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/celine-chiasera-hd.png": {
 		"ft": 32768,
 		"iS": 36626,
@@ -768,6 +790,28 @@
 		"iS": 1521,
 		"oA": 0,
 		"oAP": "/icone/bigwax-rec.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/icone-default-hd.png": {
+		"ft": 32768,
+		"iS": 8224,
+		"oA": 0,
+		"oAP": "/icone/icone-default-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/icone-default.png": {
+		"ft": 32768,
+		"iS": 631,
+		"oA": 0,
+		"oAP": "/icone/icone-default.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
