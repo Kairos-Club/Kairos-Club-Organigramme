@@ -103,6 +103,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/avatar.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/avatar/avatar.zip",
+		"oF": 0
+		},
 	"/avatar/celine-chiasera-hd.png": {
 		"ft": 32768,
 		"iS": 36626,
@@ -122,6 +130,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/charlotte-baker-hd.png": {
+		"ft": 32768,
+		"iS": 31417,
+		"oA": 0,
+		"oAP": "/avatar/charlotte-baker-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/charlotte-baker.png": {
+		"ft": 32768,
+		"iS": 3103,
+		"oA": 0,
+		"oAP": "/avatar/charlotte-baker.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -708,6 +738,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/bigwax-fr-gsuite-hd.png": {
+		"ft": 32768,
+		"iS": 5847,
+		"oA": 0,
+		"oAP": "/icone/bigwax-fr-gsuite-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/bigwax-fr-gsuite.png": {
+		"ft": 32768,
+		"iS": 3201,
+		"oA": 0,
+		"oAP": "/icone/bigwax-fr-gsuite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icone/bigwax-fr-hd.png": {
 		"ft": 32768,
 		"iS": 12405,
@@ -724,6 +776,28 @@
 		"iS": 1335,
 		"oA": 0,
 		"oAP": "/icone/bigwax-fr.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/bigwax-io-distribution-hd.png": {
+		"ft": 32768,
+		"iS": 16166,
+		"oA": 0,
+		"oAP": "/icone/bigwax-io-distribution-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/bigwax-io-distribution.png": {
+		"ft": 32768,
+		"iS": 1869,
+		"oA": 0,
+		"oAP": "/icone/bigwax-io-distribution.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -818,6 +892,14 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/icone.zip": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/icone/icone.zip",
+		"oF": 0
+		},
 	"/icone/kairos-clu-txt-hd.png": {
 		"ft": 32768,
 		"iS": 20422,
@@ -840,6 +922,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/kairos-club-gsuite-hd.png": {
+		"ft": 32768,
+		"iS": 6325,
+		"oA": 0,
+		"oAP": "/icone/kairos-club-gsuite-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/kairos-club-gsuite.png": {
+		"ft": 32768,
+		"iS": 3574,
+		"oA": 0,
+		"oAP": "/icone/kairos-club-gsuite.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icone/kairos-club-hd.png": {
 		"ft": 32768,
 		"iS": 15052,
@@ -856,6 +960,28 @@
 		"iS": 1646,
 		"oA": 0,
 		"oAP": "/icone/kairos-club.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-gsuite-hd.png": {
+		"ft": 32768,
+		"iS": 10134,
+		"oA": 0,
+		"oAP": "/icone/squeezer-gsuite-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-gsuite.png": {
+		"ft": 32768,
+		"iS": 5221,
+		"oA": 0,
+		"oAP": "/icone/squeezer-gsuite.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
