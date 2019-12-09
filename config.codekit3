@@ -955,6 +955,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/kairos-club-round-hd.png": {
+		"ft": 32768,
+		"iS": 29047,
+		"oA": 0,
+		"oAP": "/icone/kairos-club-round-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/kairos-club-round.png": {
+		"ft": 32768,
+		"iS": 2886,
+		"oA": 0,
+		"oAP": "/icone/kairos-club-round.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icone/kairos-club.png": {
 		"ft": 32768,
 		"iS": 1646,
