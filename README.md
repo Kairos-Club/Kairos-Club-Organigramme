@@ -1,7 +1,3 @@
-# Kairos Club Organigramme
-
-### Structures Icones
-
 ![](icone/kairos-club.png) 
 ![](icone/squeezer.png)
 ![](icone/bigwax-fr.png) 
