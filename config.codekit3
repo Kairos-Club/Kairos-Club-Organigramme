@@ -7,7 +7,7 @@
 		"uuidString": "A6DE516C-3F9A-4821-84DA-2E086576CCFB"
 		}
 	],
-"creatorBuild": "31491",
+"creatorBuild": "31934",
 "files": {
 	"/.idea": {
 		"ft": 65536,
@@ -102,14 +102,6 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
-		},
-	"/avatar/avatar.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/avatar/avatar.zip",
-		"oF": 0
 		},
 	"/avatar/celine-chiasera-hd.png": {
 		"ft": 32768,
@@ -372,6 +364,50 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/ludovic-dury-hd.png": {
+		"ft": 32768,
+		"iS": 32301,
+		"oA": 0,
+		"oAP": "/avatar/ludovic-dury-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/ludovic-dury.png": {
+		"ft": 32768,
+		"iS": 2893,
+		"oA": 0,
+		"oAP": "/avatar/ludovic-dury.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/melanie-le-duc-hd.png": {
+		"ft": 32768,
+		"iS": 36166,
+		"oA": 0,
+		"oAP": "/avatar/melanie-le-duc-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/melanie-le-duc.png": {
+		"ft": 32768,
+		"iS": 3440,
+		"oA": 0,
+		"oAP": "/avatar/melanie-le-duc.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -738,28 +774,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/bigwax-fr-gsuite-hd.png": {
-		"ft": 32768,
-		"iS": 5847,
-		"oA": 0,
-		"oAP": "/icone/bigwax-fr-gsuite-hd.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icone/bigwax-fr-gsuite.png": {
-		"ft": 32768,
-		"iS": 3201,
-		"oA": 0,
-		"oAP": "/icone/bigwax-fr-gsuite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/icone/bigwax-fr-hd.png": {
 		"ft": 32768,
 		"iS": 12405,
@@ -892,14 +906,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/icone.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/icone/icone.zip",
-		"oF": 0
-		},
 	"/icone/kairos-clu-txt-hd.png": {
 		"ft": 32768,
 		"iS": 20422,
@@ -922,55 +928,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/kairos-club-gsuite-hd.png": {
-		"ft": 32768,
-		"iS": 6325,
-		"oA": 0,
-		"oAP": "/icone/kairos-club-gsuite-hd.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icone/kairos-club-gsuite.png": {
-		"ft": 32768,
-		"iS": 3574,
-		"oA": 0,
-		"oAP": "/icone/kairos-club-gsuite.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"/icone/kairos-club-hd.png": {
 		"ft": 32768,
 		"iS": 15052,
 		"oA": 0,
 		"oAP": "/icone/kairos-club-hd.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icone/kairos-club-round-hd.png": {
-		"ft": 32768,
-		"iS": 29047,
-		"oA": 0,
-		"oAP": "/icone/kairos-club-round-hd.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/icone/kairos-club-round.png": {
-		"ft": 32768,
-		"iS": 2886,
-		"oA": 0,
-		"oAP": "/icone/kairos-club-round.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -988,22 +950,22 @@
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/squeezer-gsuite-hd.png": {
+	"/icone/lelp-hd.png": {
 		"ft": 32768,
-		"iS": 10134,
+		"iS": 14612,
 		"oA": 0,
-		"oAP": "/icone/squeezer-gsuite-hd.png",
+		"oAP": "/icone/lelp-hd.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
-	"/icone/squeezer-gsuite.png": {
+	"/icone/lelp.png": {
 		"ft": 32768,
-		"iS": 5221,
+		"iS": 1570,
 		"oA": 0,
-		"oAP": "/icone/squeezer-gsuite.png",
+		"oAP": "/icone/lelp.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1015,6 +977,28 @@
 		"iS": 29236,
 		"oA": 0,
 		"oAP": "/icone/squeezer-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smyle-hd.png": {
+		"ft": 32768,
+		"iS": 29236,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smyle-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smyle.png": {
+		"ft": 32768,
+		"iS": 2982,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smyle.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1077,6 +1061,17 @@
 		"pME": 1,
 		"rFN": 0,
 		"uCM": 0
+		},
+	"/siteicon.png": {
+		"ft": 32768,
+		"iS": 15917,
+		"oA": 0,
+		"oAP": "/siteicon.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		}
 	},
 "hooks": [
@@ -1085,7 +1080,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 593600400.38040102,
-	"displayValue": "kc-organigramme",
+	"displayValue": "Kairos-Club-Organigramme",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "/favicon/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
@@ -1523,6 +1518,7 @@
 			"flagValue": -1
 			}
 		},
+	"environmentVariablesString": "NODE_ENV:::production",
 	"esLintConfigFileHandlingType": 0,
 	"esLintECMAVersion": 7,
 	"esLintEnvironmentsMask": 1,
@@ -1624,6 +1620,10 @@
 			"optionString": "'all'"
 			},
 		"default-case": {
+			"active": 0,
+			"optionString": ""
+			},
+		"default-param-last": {
 			"active": 0,
 			"optionString": ""
 			},
@@ -1973,6 +1973,10 @@
 			},
 		"no-implied-eval": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-import-assign": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-inline-comments": {
@@ -2398,6 +2402,10 @@
 		"prefer-promise-reject-errors": {
 			"active": 0,
 			"optionString": "{'allowEmptyReject': false}"
+			},
+		"prefer-regex-literals": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-rest-params": {
 			"active": 0,
@@ -3007,7 +3015,6 @@
 		"autoOutputPathStyle": 0,
 		"createSourceMap": 1,
 		"enableJavascript": 0,
-		"ieCompatibility": 0,
 		"mathStyle": 0,
 		"outputStyle": 0,
 		"rewriteURLStyle": 0,
@@ -3147,6 +3154,9 @@
 	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
+	"rollupExternals": "",
+	"rollupReplacements": "process.env.NODE_ENV:::$NODE_ENV,,,ENVIRONMENT:::$NODE_ENV",
+	"rollupTreeshakingEnabled": 1,
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
 	"sourceFolderName": "source",
 	"susyVersion": 3,
