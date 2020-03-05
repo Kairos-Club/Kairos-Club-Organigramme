@@ -248,6 +248,17 @@ code {
       top: 6px;
       right: 7px;
       text-decoration: none; }
+    .flex-container .flex-item .edit-link {
+      float: right;
+      display: inline-block;
+      position: absolute;
+      bottom: 6px;
+      right: 7px;
+      font-size: 80%;
+      opacity: .5;
+      text-decoration: none; }
+      .flex-container .flex-item .edit-link:hover {
+        opacity: 1; }
     .flex-container .flex-item .gist {
       border: 5px solid white; }
     .flex-container .flex-item .gist .gist-data {

@@ -340,6 +340,29 @@ code {
       }
     }
 
+    .edit-link {
+      float: right;
+      display: inline-block;
+      position: absolute;
+      bottom: 6px;
+      right: 7px;
+
+      font-size: 80%;
+      opacity: .5;
+
+      &:hover {
+        opacity: 1;
+      }
+
+      //color: white;
+      text-decoration: none;
+
+      code {
+        //border-radius: 0 0 0 3px;
+        //background-color: rgba(255, 0, 0, 0.71);
+      }
+    }
+
     .gist {
       border: 5px solid white;
     }
