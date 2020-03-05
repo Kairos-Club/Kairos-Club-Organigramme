@@ -9,6 +9,7 @@
    ========================================================================== */
 html {
   color: #222;
+  background-color: white;
   font-size: 1em;
   line-height: 1.4; }
 
@@ -219,7 +220,8 @@ code {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: left;
-  align-items: stretch;
+  align-content: stretch;
+  align-items: flex-start;
   padding: 5px;
   /* this */
   margin: -10px; }
@@ -229,8 +231,49 @@ code {
   .flex-container .flex-item {
     width: 100%;
     max-width: 400px;
+    position: relative;
+    overflow-y: auto;
     padding: 0;
     border: 2px solid #EEEEEE;
     border-radius: 5px;
-    overflow: hidden;
-    color: inherit; }
+    color: inherit;
+    background-color: #EEEEEE;
+    transition-delay: .5s;
+    transition: height .1s ease-in-out; }
+    .flex-container .flex-item:hover {
+      transition-delay: .5s;
+      height: auto;
+      border-color: #333333;
+      background-color: black; }
+      .flex-container .flex-item:hover .gist .markdown-body {
+        color: white; }
+    .flex-container .flex-item .raw-link {
+      float: right;
+      display: inline-block;
+      position: absolute;
+      top: 2px;
+      right: 2px;
+      text-decoration: none; }
+    .flex-container .flex-item .gist .gist-data {
+      background-color: transparent; }
+    .flex-container .flex-item .gist .gist-file {
+      margin-bottom: 0 !important;
+      border: none !important; }
+    .flex-container .flex-item .gist .markdown-body {
+      color: black;
+      font-size: 15px;
+      line-height: 20px; }
+      .flex-container .flex-item .gist .markdown-body a {
+        text-decoration: none; }
+    .flex-container .flex-item .gist .markdown-body table tr {
+      background-color: transparent !important;
+      margin-bottom: 10px !important; }
+      .flex-container .flex-item .gist .markdown-body table tr td {
+        border: none !important;
+        padding: 0 5px 10px 0 !important; }
+      .flex-container .flex-item .gist .markdown-body table tr:last-child td {
+        padding-bottom: 0px !important; }
+    .flex-container .flex-item .gist .gist-data {
+      border: none !important; }
+    .flex-container .flex-item .gist .gist-meta {
+      display: none; }
