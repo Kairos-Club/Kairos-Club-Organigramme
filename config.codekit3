@@ -191,6 +191,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/connor-j-mcclure-hd.png": {
+		"ft": 32768,
+		"iS": 31205,
+		"oA": 0,
+		"oAP": "/avatar/connor-j-mcclure-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/connor-j-mcclure.png": {
+		"ft": 32768,
+		"iS": 3273,
+		"oA": 0,
+		"oAP": "/avatar/connor-j-mcclure.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/dave-kouliche-hd.png": {
 		"ft": 32768,
 		"iS": 21112,
@@ -584,6 +606,28 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/yann-grosjean-hd.png": {
+		"ft": 32768,
+		"iS": 32633,
+		"oA": 0,
+		"oAP": "/avatar/yann-grosjean-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/yann-grosjean.png": {
+		"ft": 32768,
+		"iS": 3104,
+		"oA": 0,
+		"oAP": "/avatar/yann-grosjean.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -983,6 +1027,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/icone/squeezer-smiley-hd.png": {
+		"ft": 32768,
+		"iS": 29290,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smiley-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-smiley.png": {
+		"ft": 32768,
+		"iS": 3140,
+		"oA": 0,
+		"oAP": "/icone/squeezer-smiley.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/icone/squeezer-smyle-hd.png": {
 		"ft": 32768,
 		"iS": 29236,
@@ -999,6 +1065,28 @@
 		"iS": 2982,
 		"oA": 0,
 		"oAP": "/icone/squeezer-smyle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-square-hd.png": {
+		"ft": 32768,
+		"iS": 17765,
+		"oA": 0,
+		"oAP": "/icone/squeezer-square-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/squeezer-square.png": {
+		"ft": 32768,
+		"iS": 2021,
+		"oA": 0,
+		"oAP": "/icone/squeezer-square.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
