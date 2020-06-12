@@ -7,7 +7,7 @@
 		"uuidString": "A6DE516C-3F9A-4821-84DA-2E086576CCFB"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32186",
 "files": {
 	"/.idea": {
 		"ft": 65536,
@@ -87,8 +87,8 @@
 		"oA": 0,
 		"oAP": "/avatar/avatar-default-hd.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -98,8 +98,8 @@
 		"oA": 0,
 		"oAP": "/avatar/avatar-default.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -587,6 +587,28 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/thomas-lescan-du-plessix-hd.png": {
+		"ft": 32768,
+		"iS": 25504,
+		"oA": 0,
+		"oAP": "/avatar/thomas-lescan-du-plessix-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/thomas-lescan-du-plessix.png": {
+		"ft": 32768,
+		"iS": 2693,
+		"oA": 0,
+		"oAP": "/avatar/thomas-lescan-du-plessix.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/avatar/yann-boucaud-hd.png": {
 		"ft": 32768,
 		"iS": 27879,
@@ -645,14 +667,14 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/css/main.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/css/normalize.css": {
 		"aP": 1,
@@ -798,7 +820,7 @@
 		},
 	"/icone/bigwax-distribution-hd.png": {
 		"ft": 32768,
-		"iS": 14199,
+		"iS": 3959,
 		"oA": 0,
 		"oAP": "/icone/bigwax-distribution-hd.png",
 		"oF": 0,
@@ -864,7 +886,7 @@
 		},
 	"/icone/bigwax-io-hd.png": {
 		"ft": 32768,
-		"iS": 13488,
+		"iS": 4386,
 		"oA": 0,
 		"oAP": "/icone/bigwax-io-hd.png",
 		"oF": 0,
@@ -908,7 +930,7 @@
 		},
 	"/icone/bigwax-rec-hd.png": {
 		"ft": 32768,
-		"iS": 14336,
+		"iS": 3949,
 		"oA": 0,
 		"oAP": "/icone/bigwax-rec-hd.png",
 		"oF": 0,
@@ -922,6 +944,28 @@
 		"iS": 1521,
 		"oA": 0,
 		"oAP": "/icone/bigwax-rec.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/front-hd.png": {
+		"ft": 32768,
+		"iS": 19180,
+		"oA": 0,
+		"oAP": "/icone/front-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone/front.png": {
+		"ft": 32768,
+		"iS": 2131,
+		"oA": 0,
+		"oAP": "/icone/front.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1711,6 +1755,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -1766,6 +1814,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -1943,6 +1995,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -1968,6 +2024,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -2111,6 +2171,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -2227,6 +2291,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
+			},
 		"no-restricted-globals": {
 			"active": 0,
 			"optionString": "'event', 'fdescribe'"
@@ -2269,6 +2337,10 @@
 			},
 		"no-sequences": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-setter-return": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-shadow": {
@@ -2366,6 +2438,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
@@ -2474,6 +2550,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
@@ -3171,13 +3251,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 0,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
