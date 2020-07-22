@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>charlotte-baker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="charlotte-baker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="2" fill="#000000" cx="40" cy="40" r="39"></circle>
+        <g id="Group" transform="translate(12.000000, 14.000000)">
+            <ellipse id="center" fill="#FFFFFF" cx="44" cy="22.5" rx="12" ry="22.5"></ellipse>
+            <ellipse id="left" fill="#FFFFFF" cx="12" cy="22.5" rx="12" ry="22.5"></ellipse>
+            <ellipse id="center" fill="#000000" cx="44" cy="22.5" rx="6" ry="11.5"></ellipse>
+            <ellipse id="left" fill="#000000" cx="12" cy="22.5" rx="6" ry="11.5"></ellipse>
+        </g>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#000000" cx="66" cy="20" r="6"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="2" fill="#000000" cx="14" cy="20" r="6"></circle>
+        <circle id="center" fill="#FFFFFF" transform="translate(39.500000, 71.500000) rotate(-180.000000) translate(-39.500000, -71.500000) " cx="39.5" cy="71.5" r="1.5"></circle>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" transform="translate(40.000000, 60.000000) scale(1, -1) translate(-40.000000, -60.000000) " x="35" y="59" width="10" height="2" rx="1"></rect>
+        <rect id="Rectangle" fill="#FFFFFF" transform="translate(40.000000, 66.000000) scale(1, -1) translate(-40.000000, -66.000000) " x="21" y="64" width="38" height="4" rx="2"></rect>
+        <ellipse id="Oval" stroke="#000000" stroke-width="2" fill="#000000" transform="translate(60.500000, 53.000000) rotate(-180.000000) translate(-60.500000, -53.000000) " cx="60.5" cy="53" rx="11.5" ry="6"></ellipse>
+        <ellipse id="Oval" stroke="#000000" stroke-width="2" fill="#000000" transform="translate(19.500000, 53.000000) rotate(-360.000000) translate(-19.500000, -53.000000) " cx="19.5" cy="53" rx="11.5" ry="6"></ellipse>
+        <circle id="Oval" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

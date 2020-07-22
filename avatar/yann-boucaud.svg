@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>yann-boucaud</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="40"></rect>
+    </defs>
+    <g id="yann-boucaud" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="78" height="78" rx="39"></rect>
+        <g id="Group" mask="url(#mask-2)" fill="#000000">
+            <g transform="translate(24.000000, 25.000000)">
+                <circle id="left" cx="4" cy="4" r="4"></circle>
+                <circle id="left-copy" cx="28" cy="4" r="4"></circle>
+            </g>
+        </g>
+        <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 57.000000) scale(1, -1) translate(-40.000000, -57.000000) " x="27" y="55" width="26" height="4" rx="2"></rect>
+        <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 72.000000) scale(1, -1) translate(-40.000000, -72.000000) " x="27" y="71" width="26" height="2" rx="1"></rect>
+        <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 68.000000) scale(1, -1) translate(-40.000000, -68.000000) " x="21" y="67" width="38" height="2" rx="1"></rect>
+        <ellipse id="Oval" fill="#000000" mask="url(#mask-2)" cx="62" cy="52.5" rx="6" ry="10.5"></ellipse>
+        <ellipse id="Oval-Copy" fill="#000000" mask="url(#mask-2)" cx="18" cy="52.5" rx="6" ry="10.5"></ellipse>
+        <circle id="Oval" mask="url(#mask-2)" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

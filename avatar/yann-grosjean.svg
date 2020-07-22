@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>yann-grosjean</title>
+    <desc>Created with Sketch.</desc>
+    <g id="yann-grosjean" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#000000" stroke-width="2" fill="#000000" cx="40" cy="40" r="39"></circle>
+        <g id="Group" transform="translate(17.000000, 12.000000)">
+            <circle id="center" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(10.000000, 10.000000) rotate(-180.000000) translate(-10.000000, -10.000000) " cx="10" cy="10" r="11"></circle>
+            <circle id="left" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(36.000000, 10.000000) rotate(-180.000000) translate(-36.000000, -10.000000) " cx="36" cy="10" r="11"></circle>
+            <circle id="center" fill="#000000" transform="translate(10.000000, 10.000000) rotate(-180.000000) translate(-10.000000, -10.000000) " cx="10" cy="10" r="5"></circle>
+            <circle id="left" fill="#000000" transform="translate(36.000000, 10.000000) rotate(-180.000000) translate(-36.000000, -10.000000) " cx="36" cy="10" r="5"></circle>
+        </g>
+        <path d="M52.8666733,59.916973 C52.5676036,58.7206943 51.8119591,57.7588892 50.8320124,57.1709212 C49.8520657,56.5829532 48.6478167,56.3688222 47.4515381,56.6678919 L29.6380344,61.1212678 C28.8628389,61.3150667 28.2033303,61.7602231 27.7376206,62.3566932 C27.2719109,62.9531632 27,63.7009468 27,64.5 C27,65.1903559 27.279822,65.8153559 27.732233,66.267767 C28.1846441,66.720178 28.8096441,67 29.5,67 L48,67 C49.3807119,67 50.6307119,66.4403559 51.5355339,65.5355339 C52.4403559,64.6307119 53,63.3807119 53,62 L53,61 C53,60.634898 52.9552235,60.271174 52.8666733,59.916973 Z" id="Rectangle" stroke="#FFFFFF" stroke-width="2" fill="#000000" transform="translate(40.000000, 61.000000) rotate(-180.000000) translate(-40.000000, -61.000000) "></path>
+        <rect id="Rectangle-Copy-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(49.687408, 11.423505) rotate(-15.000000) translate(-49.687408, -11.423505) " x="41.187408" y="9.42350475" width="17" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(26.500000, 13.000000) rotate(-360.000000) translate(-26.500000, -13.000000) " x="16" y="11" width="21" height="4" rx="2"></rect>
+        <circle id="Oval" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

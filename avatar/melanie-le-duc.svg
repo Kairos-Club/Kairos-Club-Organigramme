@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>melanie-le-duc</title>
+    <desc>Created with Sketch.</desc>
+    <g id="melanie-le-duc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1,40 C1,50.7695526 5.36522369,60.5195526 12.4228355,67.5771645 C19.4804474,74.6347763 29.2304474,79 40,79 C50.7695526,79 60.5195526,74.6347763 67.5771645,67.5771645 C74.6347763,60.5195526 79,50.7695526 79,40 C79,37.7796344 78.0826025,35.8171475 76.4890584,34.0973076 C74.6565446,32.1195584 71.9515308,30.4632554 68.6625777,29.1009264 C61.1252996,25.9788836 50.5607061,24.4314575 40,24.4314575 C29.4392939,24.4314575 18.8747004,25.9788836 11.3374223,29.1009264 C8.04846923,30.4632554 5.34345538,32.1195584 3.51094156,34.0973076 C1.91739747,35.8171475 1,37.7796344 1,40 Z" id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#000000"></path>
+        <path d="M40,1 C29.2304474,1 19.4804474,5.36522369 12.4228355,12.4228355 C5.36522369,19.4804474 1,29.2304474 1,40 C1,42.2203656 1.91739747,44.1828525 3.51094156,45.9026924 C5.34345538,47.8804416 8.04846923,49.5367446 11.3374223,50.8990736 C18.8747004,54.0211164 29.4392939,55.5685425 40,55.5685425 C50.5607061,55.5685425 61.1252996,54.0211164 68.6625777,50.8990736 C71.9515308,49.5367446 74.6565446,47.8804416 76.4890584,45.9026924 C78.0826025,44.1828525 79,42.2203656 79,40 C79,29.2304474 74.6347763,19.4804474 67.5771645,12.4228355 C60.5195526,5.36522369 50.7695526,1 40,1 Z" id="Oval-Copy-2" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF"></path>
+        <rect id="Rectangle-Copy-4" fill="#000000" x="32" y="17" width="4" height="17" rx="2"></rect>
+        <rect id="Rectangle-Copy-6" fill="#000000" x="50" y="13" width="4" height="21" rx="2"></rect>
+        <rect id="Rectangle-Copy-9" fill="#000000" x="15" y="27" width="3" height="13" rx="1.5"></rect>
+        <rect id="Rectangle-Copy-7" fill="#000000" x="56" y="19" width="4" height="15" rx="2"></rect>
+        <rect id="Rectangle-Copy-10" fill="#000000" x="20" y="19" width="4" height="15" rx="2"></rect>
+        <rect id="Rectangle-Copy-5" fill="#000000" x="44" y="17" width="4" height="17" rx="2"></rect>
+        <rect id="Rectangle-Copy-8" fill="#000000" x="62" y="27" width="3" height="13" rx="1.5"></rect>
+        <rect id="Rectangle-Copy-11" fill="#000000" x="26" y="13" width="4" height="21" rx="2"></rect>
+        <rect id="Rectangle-Copy-2" fill="#FFFFFF" x="34" y="68" width="12" height="5" rx="2.5"></rect>
+        <circle id="center" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(27.000000, 38.000000) rotate(-180.000000) translate(-27.000000, -38.000000) " cx="27" cy="38" r="11"></circle>
+        <circle id="left" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(53.000000, 38.000000) rotate(-180.000000) translate(-53.000000, -38.000000) " cx="53" cy="38" r="11"></circle>
+        <circle id="center" fill="#000000" transform="translate(27.000000, 38.000000) rotate(-180.000000) translate(-27.000000, -38.000000) " cx="27" cy="38" r="5"></circle>
+        <circle id="left" fill="#000000" transform="translate(53.000000, 38.000000) rotate(-180.000000) translate(-53.000000, -38.000000) " cx="53" cy="38" r="5"></circle>
+        <circle id="Oval" fill="#FFFFFF" transform="translate(40.000000, 54.000000) rotate(-180.000000) translate(-40.000000, -54.000000) " cx="40" cy="54" r="5"></circle>
+        <circle id="Oval" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

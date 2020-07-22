@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>sophie-leger</title>
+    <desc>Created with Sketch.</desc>
+    <g id="sophie-leger" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" cx="40" cy="40" r="39"></circle>
+        <path d="M23.9644661,17.8242385 C28.0649712,20.5660976 32.9719997,21.7303774 34.9246212,20.4247302 C36.8772427,19.119083 35.136039,15.8379308 31.0355339,13.0960717 C26.9350288,10.3542126 22.0280003,9.1899328 20.0753788,10.49558 C18.1227573,11.8012272 19.863961,15.0823794 23.9644661,17.8242385 Z" id="Oval" fill="#000000"></path>
+        <path d="M48.9644661,13.0960717 C44.863961,15.8379308 43.1227573,19.119083 45.0753788,20.4247302 C47.0280003,21.7303774 51.9350288,20.5660976 56.0355339,17.8242385 C60.136039,15.0823794 61.8772427,11.8012272 59.9246212,10.49558 C57.9719997,9.1899328 53.0649712,10.3542126 48.9644661,13.0960717 Z" id="Oval" fill="#000000"></path>
+        <g id="Group" transform="translate(15.000000, 35.000000)">
+            <circle id="center" fill="#000000" cx="39" cy="11" r="11"></circle>
+            <circle id="left" fill="#000000" cx="11" cy="11" r="11"></circle>
+            <circle id="center" fill="#FFFFFF" cx="39.5" cy="10.5" r="5.5"></circle>
+            <circle id="center-copy" fill="#FFFFFF" cx="10.5" cy="10.5" r="5.5"></circle>
+            <circle id="center" fill="#000000" cx="39.5" cy="10.5" r="3"></circle>
+            <circle id="center-copy-2" fill="#000000" cx="10.5" cy="10.5" r="3"></circle>
+        </g>
+        <rect id="Rectangle" fill="#000000" transform="translate(40.000000, 63.000000) scale(1, -1) translate(-40.000000, -63.000000) " x="21" y="60" width="38" height="6" rx="3"></rect>
+        <g id="Group-2" transform="translate(27.000000, 24.000000)" stroke="#000000" stroke-linecap="round" stroke-width="2">
+            <line x1="7.71428571" y1="5.3125" x2="0.285714286" y2="2.6875" id="Line" transform="translate(4.000000, 4.000000) scale(1, -1) translate(-4.000000, -4.000000) "></line>
+            <line x1="7" y1="1.5" x2="3.88578059e-16" y2="0.5" id="Line" transform="translate(3.500000, 1.000000) scale(1, -1) translate(-3.500000, -1.000000) "></line>
+            <line x1="25.7142857" y1="5.3125" x2="18.2857143" y2="2.6875" id="Line" transform="translate(22.000000, 4.000000) scale(-1, -1) translate(-22.000000, -4.000000) "></line>
+            <line x1="26" y1="1.5" x2="18" y2="0.5" id="Line" transform="translate(22.000000, 1.000000) scale(-1, -1) translate(-22.000000, -1.000000) "></line>
+        </g>
+        <circle id="Oval" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

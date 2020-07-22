@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>ludovic-dury</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ludovic-dury" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" cx="40" cy="40" r="39"></circle>
+        <path d="M20.5,35.5 L37.5,35.5 C38.6045695,35.5 39.5,36.3954305 39.5,37.5 L39.5,43.5 C39.5,44.6045695 38.6045695,45.5 37.5,45.5 L20.5,45.5 C19.3954305,45.5 18.5,44.6045695 18.5,43.5 L18.5,37.5 C18.5,36.3954305 19.3954305,35.5 20.5,35.5 Z" id="Rectangle" fill="#000000" transform="translate(29.000000, 40.500000) scale(1, -1) rotate(-270.000000) translate(-29.000000, -40.500000) "></path>
+        <path d="M43.5,35.5 L60.5,35.5 C61.6045695,35.5 62.5,36.3954305 62.5,37.5 L62.5,43.5 C62.5,44.6045695 61.6045695,45.5 60.5,45.5 L43.5,45.5 C42.3954305,45.5 41.5,44.6045695 41.5,43.5 L41.5,37.5 C41.5,36.3954305 42.3954305,35.5 43.5,35.5 Z" id="Rectangle-Copy" fill="#000000" transform="translate(52.000000, 40.500000) scale(1, -1) rotate(-270.000000) translate(-52.000000, -40.500000) "></path>
+        <rect id="Rectangle" fill="#000000" transform="translate(40.000000, 68.000000) scale(1, -1) translate(-40.000000, -68.000000) " x="24" y="67" width="32" height="2" rx="1"></rect>
+        <ellipse id="Oval" fill="#000000" transform="translate(40.500000, 58.000000) rotate(-180.000000) translate(-40.500000, -58.000000) " cx="40.5" cy="58" rx="8.5" ry="4"></ellipse>
+        <ellipse id="Oval" fill="#000000" transform="translate(70.500000, 40.500000) rotate(-270.000000) translate(-70.500000, -40.500000) " cx="70.5" cy="40.5" rx="14.5" ry="5.5"></ellipse>
+        <ellipse id="Oval" fill="#000000" transform="translate(9.500000, 40.500000) rotate(-270.000000) translate(-9.500000, -40.500000) " cx="9.5" cy="40.5" rx="14.5" ry="5.5"></ellipse>
+        <rect id="Rectangle" stroke="#000000" stroke-width="2" fill="#FFFFFF" x="16" y="10" width="48" height="16" rx="8"></rect>
+        <rect id="Rectangle" fill="#000000" transform="translate(40.000000, 18.000000) scale(1, -1) translate(-40.000000, -18.000000) " x="34" y="16" width="12" height="4" rx="2"></rect>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#000000" cx="24" cy="18" r="6"></circle>
+        <circle id="Oval-Copy" stroke="#FFFFFF" stroke-width="2" fill="#000000" cx="56" cy="18" r="6"></circle>
+        <circle id="Oval" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>connor-j-mcclure</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="40"></rect>
+    </defs>
+    <g id="connor-j-mcclure" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="78" height="78" rx="39"></rect>
+        <path d="M39,15.3037303 C25.6529185,15.3037303 20.0601896,21.3460638 12.6396502,29.239403 C9.35765838,32.730507 5.7335935,36.5824726 1.00347031,40.4713539 C1.12792747,51.053434 5.46817591,60.6225048 12.4228355,67.5771645 C19.4804474,74.6347763 29.2304474,79 40,79 C50.7695526,79 60.5195526,74.6347763 67.5771645,67.5771645 C74.5270857,60.6272432 78.8661571,51.0664721 78.9969569,40.4922729 C73.977605,36.6091627 70.0612538,32.7640476 66.5135378,29.2786255 C58.4568125,21.3633673 52.3792051,15.3037303 39,15.3037303 Z" id="Oval" stroke="#FFFFFF" stroke-width="2" fill="#000000" mask="url(#mask-2)"></path>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(34.000000, 53.500000) scale(1, -1) translate(-34.000000, -53.500000) " x="29" y="48" width="10" height="11" rx="5"></rect>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(46.000000, 53.500000) scale(1, -1) translate(-46.000000, -53.500000) " x="41" y="48" width="10" height="11" rx="5"></rect>
+        <path d="M40,1.0823922 L12.4810956,12.4810956 L1.28183952,39.5184916 C14.1878557,45.8356009 27.0930433,49 40,49 C52.9069567,49 65.8121443,45.8356009 78.7181605,39.5184916 L67.5189044,12.4810956 L40,1.0823922 Z" id="Polygon" stroke="#FFFFFF" stroke-width="2" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        <g id="Group-2" mask="url(#mask-2)">
+            <g transform="translate(52.000000, 16.000000)">
+                <ellipse id="Oval" fill="#000000" cx="6" cy="10.5" rx="6" ry="10.5"></ellipse>
+                <ellipse id="Oval-Copy-4" fill="#FFFFFF" cx="6" cy="15" rx="3" ry="4"></ellipse>
+            </g>
+        </g>
+        <g id="Group-3" mask="url(#mask-2)">
+            <g transform="translate(16.000000, 16.000000)">
+                <ellipse id="Oval-Copy" fill="#000000" cx="6" cy="10.5" rx="6" ry="10.5"></ellipse>
+                <ellipse id="Oval-Copy-5" fill="#FFFFFF" cx="6" cy="15" rx="3" ry="4"></ellipse>
+            </g>
+        </g>
+        <ellipse id="Oval" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 41.500000) rotate(-180.000000) translate(-40.000000, -41.500000) " cx="40" cy="41.5" rx="9" ry="4.5"></ellipse>
+        <circle id="Oval" mask="url(#mask-2)" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>

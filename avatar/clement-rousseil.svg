@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>clement-rousseil</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="40"></rect>
+    </defs>
+    <g id="clement-rousseil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="78" height="78" rx="39"></rect>
+        <rect id="Rectangle-Copy" stroke="#000000" stroke-width="2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(6.000000, 40.000000) rotate(-270.000000) translate(-6.000000, -40.000000) " x="1" y="35" width="10" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#000000" stroke-width="2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(74.000000, 40.000000) rotate(-270.000000) translate(-74.000000, -40.000000) " x="69" y="35" width="10" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#000000" stroke-width="2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(40.000000, 6.000000) rotate(-270.000000) translate(-40.000000, -6.000000) " x="35" y="1" width="10" height="10" rx="5"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#000000" stroke-width="2" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(40.000000, 74.000000) rotate(-270.000000) translate(-40.000000, -74.000000) " x="35" y="69" width="10" height="10" rx="5"></rect>
+        <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 62.000000) scale(1, -1) translate(-40.000000, -62.000000) " x="27" y="60" width="26" height="4" rx="2"></rect>
+        <g id="Group" mask="url(#mask-2)">
+            <g transform="translate(40.000000, 35.500000) rotate(-180.000000) translate(-40.000000, -35.500000) translate(16.000000, 20.000000)">
+                <ellipse id="center" fill="#000000" cx="37.5" cy="15.5" rx="10.5" ry="15.5"></ellipse>
+                <ellipse id="left" fill="#000000" cx="10.5" cy="15.5" rx="10.5" ry="15.5"></ellipse>
+                <ellipse id="center" fill="#FFFFFF" cx="38" cy="16" rx="5" ry="8"></ellipse>
+                <ellipse id="left" fill="#FFFFFF" cx="10" cy="16" rx="5" ry="8"></ellipse>
+            </g>
+        </g>
+        <circle id="Oval" mask="url(#mask-2)" cx="40" cy="40" r="40"></circle>
+    </g>
+</svg>
