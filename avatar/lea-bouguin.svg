@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>lea-bouguin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="lea-bouguin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <line x1="32.5" y1="28.5" x2="19.5" y2="21.5" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round"></line>
+        <line x1="60.5" y1="28.5" x2="47.5" y2="21.5" id="Line" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" transform="translate(54.000000, 25.000000) scale(-1, 1) translate(-54.000000, -25.000000) "></line>
+        <ellipse id="Oval" fill="#FFFFFF" transform="translate(19.500000, 42.500000) rotate(-345.000000) translate(-19.500000, -42.500000) " cx="19.5" cy="42.5" rx="14.5" ry="5.5"></ellipse>
+        <ellipse id="Oval" fill="#FFFFFF" transform="translate(60.500000, 42.500000) rotate(-195.000000) translate(-60.500000, -42.500000) " cx="60.5" cy="42.5" rx="14.5" ry="5.5"></ellipse>
+        <circle id="center" fill="#000000" transform="translate(27.000000, 40.000000) rotate(-180.000000) translate(-27.000000, -40.000000) " cx="27" cy="40" r="5"></circle>
+        <circle id="left" fill="#000000" transform="translate(53.000000, 40.000000) rotate(-180.000000) translate(-53.000000, -40.000000) " cx="53" cy="40" r="5"></circle>
+        <path d="M55,62 C46.997405,70 34.0028265,70 26,62" id="Stroke-2" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="37.5" y1="59.5" x2="43.5" y2="59.5" id="Line-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+        <path d="M20,34 C17.2404845,36.6666667 12.7595953,36.6666667 10,34" id="Stroke-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(15.000000, 35.000000) rotate(-315.000000) translate(-15.000000, -35.000000) "></path>
+        <path d="M70,34 C67.2404845,36.6666667 62.7595953,36.6666667 60,34" id="Stroke-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(65.000000, 35.000000) scale(-1, 1) rotate(-315.000000) translate(-65.000000, -35.000000) "></path>
+    </g>
+</svg>

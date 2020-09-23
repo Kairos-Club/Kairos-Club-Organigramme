@@ -37,6 +37,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/adrien-teil.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/adrien-teil.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/alan-briand-hd.png": {
 		"ft": 32768,
 		"iS": 22097,
@@ -58,6 +68,48 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/alan-briand.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/alan-briand.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/avatar/alexandre-rakovsky-hd.png": {
+		"ft": 32768,
+		"iS": 23952,
+		"oA": 0,
+		"oAP": "/avatar/alexandre-rakovsky-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/alexandre-rakovsky.png": {
+		"ft": 32768,
+		"iS": 2218,
+		"oA": 0,
+		"oAP": "/avatar/alexandre-rakovsky.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/alexandre-rakovsky.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/alexandre-rakovsky.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/aude-chagnon-hd.png": {
 		"ft": 32768,
@@ -81,6 +133,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/aude-chagnon.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/aude-chagnon.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/avatar-default-hd.png": {
 		"ft": 32768,
 		"iS": 23827,
@@ -102,6 +164,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/avatar-default.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/avatar-default.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/celine-chiasera-hd.png": {
 		"ft": 32768,
@@ -125,6 +197,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/celine-chiasera.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/celine-chiasera.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/charlotte-baker-hd.png": {
 		"ft": 32768,
 		"iS": 31417,
@@ -146,6 +228,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/charlotte-baker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/charlotte-baker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/clement-rousseil-hd.png": {
 		"ft": 32768,
@@ -169,6 +261,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/clement-rousseil.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/clement-rousseil.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/clyde-arcalis-hd.png": {
 		"ft": 32768,
 		"iS": 28606,
@@ -190,6 +292,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/clyde-arcalis.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/clyde-arcalis.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/connor-j-mcclure-hd.png": {
 		"ft": 32768,
@@ -213,6 +325,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/connor-j-mcclure.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/connor-j-mcclure.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/dave-kouliche-hd.png": {
 		"ft": 32768,
 		"iS": 21112,
@@ -234,6 +356,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/dave-kouliche.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/dave-kouliche.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/florent-le-goff-hd.png": {
 		"ft": 32768,
@@ -257,6 +389,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/florent-le-goff.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/florent-le-goff.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/francois-reboux-hd.png": {
 		"ft": 32768,
 		"iS": 36328,
@@ -279,6 +421,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/francois-reboux.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/francois-reboux.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/gregory-pezard-hd.png": {
 		"ft": 32768,
 		"iS": 27928,
@@ -300,6 +452,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/gregory-pezard.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/gregory-pezard.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/guillaume-chotard-hd.png": {
 		"ft": 32768,
@@ -345,6 +507,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/helia-afonso-caldas.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/helia-afonso-caldas.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/jeremy-muratet-decker-hd.png": {
 		"ft": 32768,
 		"iS": 35680,
@@ -366,6 +538,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/jeremy-muratet-decker.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/jeremy-muratet-decker.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/julien-laharie-hd.png": {
 		"ft": 32768,
@@ -389,6 +571,48 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/julien-laharie.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/julien-laharie.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/avatar/lea-bouguin-hd.png": {
+		"ft": 32768,
+		"iS": 24414,
+		"oA": 0,
+		"oAP": "/avatar/lea-bouguin-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/lea-bouguin.png": {
+		"ft": 32768,
+		"iS": 2664,
+		"oA": 0,
+		"oAP": "/avatar/lea-bouguin.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/lea-bouguin.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/lea-bouguin.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/ludovic-dury-hd.png": {
 		"ft": 32768,
 		"iS": 32301,
@@ -410,6 +634,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/ludovic-dury.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/ludovic-dury.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/melanie-le-duc-hd.png": {
 		"ft": 32768,
@@ -433,6 +667,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/melanie-le-duc.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/melanie-le-duc.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/quentin-richard-hd.png": {
 		"ft": 32768,
 		"iS": 33063,
@@ -454,6 +698,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/quentin-richard.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/quentin-richard.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/sandrine-grosset-hd.png": {
 		"ft": 32768,
@@ -477,6 +731,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/sandrine-grosset.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/sandrine-grosset.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/sophie-garnault-hd.png": {
 		"ft": 32768,
 		"iS": 34718,
@@ -499,6 +763,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/sophie-garnault.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/sophie-garnault.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/sophie-leger-hd.png": {
 		"ft": 32768,
 		"iS": 36573,
@@ -520,6 +794,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/sophie-leger.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/sophie-leger.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/sophie-vilain-hd.png": {
 		"ft": 32768,
@@ -565,6 +849,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/stephane-rodriguez.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/stephane-rodriguez.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/theo-vallee-hd.png": {
 		"ft": 32768,
 		"iS": 29378,
@@ -586,6 +880,16 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/theo-vallee.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/theo-vallee.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/avatar/thomas-lescan-du-plessix-hd.png": {
 		"ft": 32768,
@@ -609,6 +913,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/thomas-lescan-du-plessix.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/thomas-lescan-du-plessix.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/yann-boucaud-hd.png": {
 		"ft": 32768,
 		"iS": 27879,
@@ -631,6 +945,16 @@
 		"oT": 1,
 		"q": 100
 		},
+	"/avatar/yann-boucaud.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/yann-boucaud.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/yann-grosjean-hd.png": {
 		"ft": 32768,
 		"iS": 32633,
@@ -652,6 +976,16 @@
 		"opt": 0,
 		"oT": 1,
 		"q": 100
+		},
+	"/avatar/yann-grosjean.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/yann-grosjean.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/css/main.css": {
 		"aP": 1,
@@ -817,6 +1151,226 @@
 		"oA": 0,
 		"oAP": "/font/slurpette-regular.woff2",
 		"oF": 0
+		},
+	"/icone-social/bigwax-distrib.jpg": {
+		"ft": 16384,
+		"iS": 7833,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-distrib.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/bigwax-distrib.png": {
+		"ft": 32768,
+		"iS": 23210,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-distrib.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/bigwax-manufact.jpg": {
+		"ft": 16384,
+		"iS": 9306,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-manufact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/bigwax-manufact.png": {
+		"ft": 32768,
+		"iS": 23142,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-manufact.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/bigwax-rec.jpg": {
+		"ft": 16384,
+		"iS": 7900,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-rec.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/bigwax-rec.png": {
+		"ft": 32768,
+		"iS": 23413,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax-rec.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/bigwax.jpg": {
+		"ft": 16384,
+		"iS": 10875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/bigwax.png": {
+		"ft": 32768,
+		"iS": 22237,
+		"oA": 0,
+		"oAP": "/icone-social/bigwax.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/bigwaxio.jpg": {
+		"ft": 16384,
+		"iS": 9745,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/bigwaxio.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/bigwaxio.png": {
+		"ft": 32768,
+		"iS": 22991,
+		"oA": 0,
+		"oAP": "/icone-social/bigwaxio.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/front.jpg": {
+		"ft": 16384,
+		"iS": 7372,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/front.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/front.png": {
+		"ft": 32768,
+		"iS": 14482,
+		"oA": 0,
+		"oAP": "/icone-social/front.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/kairos-club.jpg": {
+		"ft": 16384,
+		"iS": 16958,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/kairos-club.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/kairos-club.png": {
+		"ft": 32768,
+		"iS": 26364,
+		"oA": 0,
+		"oAP": "/icone-social/kairos-club.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/lelp.jpg": {
+		"ft": 16384,
+		"iS": 12220,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/lelp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/lelp.png": {
+		"ft": 32768,
+		"iS": 23972,
+		"oA": 0,
+		"oAP": "/icone-social/lelp.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/squeezer-smyle.jpg": {
+		"ft": 16384,
+		"iS": 20355,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/squeezer-smyle.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/squeezer-smyle.png": {
+		"ft": 32768,
+		"iS": 39117,
+		"oA": 0,
+		"oAP": "/icone-social/squeezer-smyle.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/icone-social/squeezer.jpg": {
+		"ft": 16384,
+		"iS": 14784,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/icone-social/squeezer.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/icone-social/squeezer.png": {
+		"ft": 32768,
+		"iS": 28521,
+		"oA": 0,
+		"oAP": "/icone-social/squeezer.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/icone/bigwax-distribution-hd.png": {
 		"ft": 32768,
@@ -1213,7 +1767,7 @@
 "projectAttributes": {
 	"creationDate": 593600400.38040102,
 	"displayValue": "Kairos-Club-Organigramme",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "/favicon/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
