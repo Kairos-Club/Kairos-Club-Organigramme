@@ -45,11 +45,11 @@
                 </g>
             </g>
         </g>
-        <g id="Group-2" transform="translate(5.015908, 22.000000)" fill="#FFFFFF">
+        <g id="Group-2" transform="translate(5.000000, 24.000000)" fill="#FFFFFF">
             <ellipse id="Oval" transform="translate(52.484092, 15.953689) rotate(-171.000000) translate(-52.484092, -15.953689) " cx="52.4840924" cy="15.9536895" rx="15.4104975" ry="13.6295487"></ellipse>
             <ellipse id="Oval" transform="translate(17.484092, 15.953689) scale(-1, 1) rotate(-171.000000) translate(-17.484092, -15.953689) " cx="17.4840924" cy="15.9536895" rx="15.4104975" ry="13.6295487"></ellipse>
         </g>
-        <circle id="Oval" fill="#000000" cx="54.5" cy="38.3722041" r="8.5"></circle>
-        <circle id="Oval" fill="#000000" transform="translate(25.500000, 38.372204) scale(-1, 1) translate(-25.500000, -38.372204) " cx="25.5" cy="38.3722041" r="8.5"></circle>
+        <circle id="Oval" fill="#000000" cx="54.4840924" cy="40.3722041" r="8.5"></circle>
+        <circle id="Oval" fill="#000000" transform="translate(25.484092, 40.372204) scale(-1, 1) translate(-25.484092, -40.372204) " cx="25.4840924" cy="40.3722041" r="8.5"></circle>
     </g>
 </svg>
