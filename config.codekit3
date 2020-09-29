@@ -143,6 +143,38 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/avatar/audrey-bartolo-hd.png": {
+		"ft": 32768,
+		"iS": 29696,
+		"oA": 0,
+		"oAP": "/avatar/audrey-bartolo-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/audrey-bartolo.png": {
+		"ft": 32768,
+		"iS": 3137,
+		"oA": 0,
+		"oAP": "/avatar/audrey-bartolo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/avatar/audrey-bartolo.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/audrey-bartolo.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/avatar-default-hd.png": {
 		"ft": 32768,
 		"iS": 23827,
