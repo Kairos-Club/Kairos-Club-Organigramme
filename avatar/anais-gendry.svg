@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>anais-gendry</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="40" cy="40" r="40"></circle>
+    </defs>
+    <g id="anais-gendry" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#000000" cx="40" cy="40" r="40"></circle>
+        <g id="Oval">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask"></g>
+            <g id="Group-7" mask="url(#mask-2)" fill="#FFFFFF">
+                <g transform="translate(34.000000, 2.000000)" id="Oval">
+                    <circle cx="6" cy="30" r="4"></circle>
+                    <circle cx="6" cy="19" r="5"></circle>
+                    <circle cx="6" cy="6" r="6"></circle>
+                </g>
+            </g>
+            <path d="M20,91.5 C42.09139,91.5 60,73.59139 60,51.5 C60,29.40861 42.09139,11.5 20,11.5" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)" transform="translate(40.000000, 51.500000) rotate(-270.000000) translate(-40.000000, -51.500000) "></path>
+        </g>
+        <g id="Group-8" transform="translate(10.000000, 29.000000)">
+            <ellipse id="Oval" fill="#FFFFFF" transform="translate(12.000000, 12.500000) rotate(-45.000000) translate(-12.000000, -12.500000) " cx="12" cy="12.5" rx="6" ry="10.5"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#000000" cx="15.1819805" cy="10.6819805" rx="3" ry="4"></ellipse>
+        </g>
+        <g id="Group-6" transform="translate(45.818019, 29.000000)">
+            <ellipse id="Oval-Copy" fill="#FFFFFF" transform="translate(12.181981, 12.500000) rotate(-315.000000) translate(-12.181981, -12.500000) " cx="12.1819805" cy="12.5" rx="6" ry="10.5"></ellipse>
+            <ellipse id="Oval-Copy-5" fill="#000000" transform="translate(9.000000, 10.681981) rotate(-360.000000) translate(-9.000000, -10.681981) " cx="9" cy="10.6819805" rx="3" ry="4"></ellipse>
+        </g>
+        <circle id="Oval" fill="#FFFFFF" cx="46" cy="58" r="2"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="34" cy="58" r="2"></circle>
+    </g>
+</svg>
