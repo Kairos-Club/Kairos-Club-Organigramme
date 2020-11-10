@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>faycal-kamel</title>
+    <desc>Created with Sketch.</desc>
+    <g id="faycal-kamel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <g id="Group-2" transform="translate(6.000000, 28.000000)">
+            <circle id="center" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(14.000000, 10.000000) rotate(-180.000000) translate(-14.000000, -10.000000) " cx="14" cy="10" r="11"></circle>
+            <circle id="center" fill="#000000" transform="translate(14.000000, 10.000000) rotate(-180.000000) translate(-14.000000, -10.000000) " cx="14" cy="10" r="5"></circle>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="10" width="28" height="13"></rect>
+            <rect id="Rectangle-Copy-3" fill="#000000" transform="translate(14.000000, 12.000000) scale(1, -1) rotate(-180.000000) translate(-14.000000, -12.000000) " x="0" y="10" width="28" height="4" rx="2"></rect>
+        </g>
+        <g id="Group-2" transform="translate(46.000000, 28.000000)">
+            <circle id="center" stroke="#000000" stroke-width="2" fill="#FFFFFF" transform="translate(14.000000, 10.000000) rotate(-180.000000) translate(-14.000000, -10.000000) " cx="14" cy="10" r="11"></circle>
+            <circle id="center" fill="#000000" transform="translate(14.000000, 10.000000) rotate(-180.000000) translate(-14.000000, -10.000000) " cx="14" cy="10" r="5"></circle>
+            <rect id="Rectangle" fill="#FFFFFF" x="0" y="10" width="28" height="13"></rect>
+            <rect id="Rectangle-Copy-3" fill="#000000" transform="translate(14.000000, 12.000000) scale(1, -1) rotate(-180.000000) translate(-14.000000, -12.000000) " x="0" y="10" width="28" height="4" rx="2"></rect>
+        </g>
+        <rect id="Rectangle" fill="#000000" transform="translate(40.000000, 42.000000) scale(1, -1) rotate(-90.000000) translate(-40.000000, -42.000000) " x="29" y="40" width="22" height="4" rx="2"></rect>
+        <rect id="Rectangle-Copy" fill="#000000" transform="translate(40.000000, 59.000000) scale(1, -1) rotate(-180.000000) translate(-40.000000, -59.000000) " x="29" y="57" width="22" height="4" rx="2"></rect>
+    </g>
+</svg>
