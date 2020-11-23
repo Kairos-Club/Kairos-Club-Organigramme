@@ -4,6 +4,7 @@
     <title>avatar-default</title>
     <desc>Created with Sketch.</desc>
     <g id="avatar-default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="80" height="80"></rect>
         <circle id="Oval" fill="#FFFFFF" cx="40" cy="40" r="40"></circle>
         <path d="M55,53 C59.9705627,53 64,51.8529255 64,42.2989688 C64,32.7450121 59.9705627,25 55,25 C50.0294373,25 46,32.7450121 46,42.2989688 C46,51.8529255 50.0294373,53 55,53 Z" id="center" stroke="#000000" stroke-width="2" fill="#FFFFFF"></path>
         <path d="M56,54 C59.3137085,54 62,53.2103659 62,46.3755425 C62,39.5407191 59.3137085,34 56,34 C52.6862915,34 50,39.5407191 50,46.3755425 C50,53.2103659 52.6862915,54 56,54 Z" id="center" fill="#000000"></path>
