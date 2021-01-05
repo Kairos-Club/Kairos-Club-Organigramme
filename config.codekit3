@@ -725,6 +725,42 @@
 		"plM": 52780316221407,
 		"prP": 0
 		},
+	"/avatar/joss-quinty-hd.png": {
+		"ft": 32768,
+		"iS": 31980,
+		"oA": 0,
+		"oAP": "/avatar/joss-quinty-hd.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/avatar/joss-quinty.png": {
+		"ft": 32768,
+		"iS": 3304,
+		"oA": 0,
+		"oAP": "/avatar/joss-quinty.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/avatar/joss-quinty.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/avatar/joss-quinty.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/avatar/julien-laharie-hd.png": {
 		"ft": 32768,
 		"iS": 27700,
