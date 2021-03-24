@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>amelie-tallon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="amelie-tallon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <circle id="Oval-Copy" fill="#000000" transform="translate(23.500000, 27.500000) rotate(-90.000000) translate(-23.500000, -27.500000) " cx="23.5" cy="27.5" r="10.5"></circle>
+        <circle id="Oval-Copy" fill="#FFFFFF" transform="translate(23.500000, 27.500000) rotate(-90.000000) translate(-23.500000, -27.500000) " cx="23.5" cy="27.5" r="8"></circle>
+        <circle id="Oval-Copy" fill="#000000" transform="translate(27.500000, 29.500000) rotate(-90.000000) translate(-27.500000, -29.500000) " cx="27.5" cy="29.5" r="3"></circle>
+        <circle id="Oval-Copy" fill="#000000" transform="translate(53.500000, 37.500000) rotate(-90.000000) translate(-53.500000, -37.500000) " cx="53.5" cy="37.5" r="14.5"></circle>
+        <circle id="Oval-Copy" fill="#FFFFFF" transform="translate(53.500000, 37.500000) rotate(-90.000000) translate(-53.500000, -37.500000) " cx="53.5" cy="37.5" r="12"></circle>
+        <circle id="Oval-Copy" fill="#000000" transform="translate(58.000000, 40.000000) rotate(-90.000000) translate(-58.000000, -40.000000) " cx="58" cy="40" r="3"></circle>
+        <ellipse id="center" fill="#000000" transform="translate(24.948435, 65.739159) rotate(-62.000000) translate(-24.948435, -65.739159) " cx="24.9484348" cy="65.7391594" rx="3.70588235" ry="7"></ellipse>
+        <line x1="28.75" y1="42.75" x2="34.75" y2="45.75" id="Line-3" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+</svg>
