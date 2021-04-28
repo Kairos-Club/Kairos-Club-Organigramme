@@ -2171,6 +2171,19 @@
       "rFN" : 0,
       "uCM" : 0
     },
+    "\/signature\/gp.png" : {
+      "ft" : 32768,
+      "iS" : 42535,
+      "oA" : 0,
+      "oAP" : "\/signature\/gp.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/siteicon.png" : {
       "ft" : 32768,
       "iS" : 15917,
