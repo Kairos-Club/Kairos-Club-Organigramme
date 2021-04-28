@@ -3,14 +3,18 @@
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>avatar-bot-mini</title>
     <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="80" height="80" rx="40"></rect>
+    </defs>
     <g id="avatar-bot-mini" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle-Copy" fill="#FACC15" x="0" y="0" width="80" height="80" rx="40"></rect>
-        <g id="Group" transform="translate(11.000000, 28.000000)">
-            <circle id="center" fill="#FFFFFF" cx="44.6" cy="12" r="12"></circle>
-            <circle id="left" fill="#FFFFFF" cx="12.6" cy="12" r="12"></circle>
-            <circle id="center" fill="#000000" cx="44.6" cy="12" r="6"></circle>
-            <circle id="left" fill="#000000" cx="12.6" cy="12" r="6"></circle>
-        </g>
-        <circle id="Oval" fill="#FFFFFF" cx="40" cy="52" r="4"></circle>
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#FACC15" transform="translate(40.000000, 40.000000) rotate(-180.000000) translate(-40.000000, -40.000000) " xlink:href="#path-1"></use>
+        <path d="M76,40 C76,20.117749 59.882251,4 40,4 C20.117749,4 4,20.117749 4,40 C4,59.882251 76,59.882251 76,40 Z" id="Oval" fill="#000000" mask="url(#mask-2)"></path>
+        <path d="M19,27 L37,27 C38.6568542,27 40,28.3431458 40,30 L40,34 C40,35.6568542 38.6568542,37 37,37 L19,37 C17.3431458,37 16,35.6568542 16,34 L16,30 C16,28.3431458 17.3431458,27 19,27 Z" id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(28.000000, 32.000000) scale(1, -1) rotate(-270.000000) translate(-28.000000, -32.000000) "></path>
+        <path d="M43,27 L61,27 C62.6568542,27 64,28.3431458 64,30 L64,34 C64,35.6568542 62.6568542,37 61,37 L43,37 C41.3431458,37 40,35.6568542 40,34 L40,30 C40,28.3431458 41.3431458,27 43,27 Z" id="Rectangle-Copy" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(52.000000, 32.000000) scale(1, -1) rotate(-270.000000) translate(-52.000000, -32.000000) "></path>
+        <path d="M60,72 C60,66.4771525 51.045695,62 40,62 C28.954305,62 20,66.4771525 20,72 C20,77.5228475 60,77.5228475 60,72 Z" id="Oval" fill="#000000" mask="url(#mask-2)" transform="translate(40.000000, 69.071068) rotate(-180.000000) translate(-40.000000, -69.071068) "></path>
+        <rect id="Rectangle-Copy" fill="#FFFFFF" mask="url(#mask-2)" transform="translate(40.000000, 68.500000) scale(1, -1) translate(-40.000000, -68.500000) " x="34" y="66" width="12" height="5" rx="2.5"></rect>
     </g>
 </svg>
