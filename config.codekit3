@@ -267,6 +267,78 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/avatar\/avatar-bot-hd.png" : {
+      "ft" : 32768,
+      "iS" : 14538,
+      "oA" : 0,
+      "oAP" : "\/avatar\/avatar-bot-hd.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/avatar-bot-mini-hd.png" : {
+      "ft" : 32768,
+      "iS" : 29151,
+      "oA" : 0,
+      "oAP" : "\/avatar\/avatar-bot-mini-hd.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/avatar-bot-mini.png" : {
+      "ft" : 32768,
+      "iS" : 3511,
+      "oA" : 0,
+      "oAP" : "\/avatar\/avatar-bot-mini.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/avatar-bot-mini.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/avatar\/avatar-bot-mini.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/avatar\/avatar-bot.png" : {
+      "ft" : 32768,
+      "iS" : 1598,
+      "oA" : 0,
+      "oAP" : "\/avatar\/avatar-bot.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/avatar-bot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/avatar\/avatar-bot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/avatar\/avatar-default-hd.png" : {
       "ft" : 32768,
       "iS" : 23827,
