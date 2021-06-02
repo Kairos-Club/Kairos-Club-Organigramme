@@ -1013,6 +1013,42 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/avatar\/nicolas-mas-hd.png" : {
+      "ft" : 32768,
+      "iS" : 29292,
+      "oA" : 0,
+      "oAP" : "\/avatar\/nicolas-mas-hd.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/nicolas-mas.png" : {
+      "ft" : 32768,
+      "iS" : 3434,
+      "oA" : 0,
+      "oAP" : "\/avatar\/nicolas-mas.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/nicolas-mas.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/avatar\/nicolas-mas.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/avatar\/quentin-richard-hd.png" : {
       "ft" : 32768,
       "iS" : 33063,
