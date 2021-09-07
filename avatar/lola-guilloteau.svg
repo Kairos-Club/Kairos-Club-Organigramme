@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>lola-guilloteau</title>
+    <g id="lola-guilloteau" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <circle id="center" fill="#FFFFFF" cx="56" cy="41" r="12"></circle>
+        <circle id="left" fill="#FFFFFF" cx="24" cy="41" r="12"></circle>
+        <circle id="center" fill="#000000" cx="56" cy="41" r="10"></circle>
+        <circle id="center" fill="#FFFFFF" cx="56" cy="41" r="8"></circle>
+        <circle id="center" fill="#000000" cx="24" cy="41" r="10"></circle>
+        <circle id="center" fill="#FFFFFF" cx="24" cy="41" r="8"></circle>
+        <circle id="center" fill="#000000" cx="56" cy="41" r="6"></circle>
+        <circle id="center" fill="#000000" cx="24" cy="41" r="6"></circle>
+        <circle id="center" fill="#FFFFFF" cx="56" cy="41" r="4"></circle>
+        <circle id="center" fill="#FFFFFF" cx="24" cy="41" r="4"></circle>
+        <circle id="center" fill="#000000" cx="56" cy="41" r="2"></circle>
+        <circle id="center" fill="#000000" cx="24" cy="41" r="2"></circle>
+        <polygon id="Path-2" stroke="#FFFFFF" stroke-width="6" fill="#FFFFFF" stroke-linejoin="round" points="28 58 52 58 40 65"></polygon>
+        <rect id="Rectangle" fill="#FFFFFF" x="24" y="51" width="32" height="2"></rect>
+        <circle id="Oval" fill="#FFFFFF" cx="42.5" cy="47.5" r="1.5"></circle>
+        <circle id="Oval" fill="#FFFFFF" cx="37.5" cy="47.5" r="1.5"></circle>
+    </g>
+</svg>

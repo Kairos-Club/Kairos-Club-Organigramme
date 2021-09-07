@@ -941,6 +941,42 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/avatar\/lola-guilloteau-hd.png" : {
+      "ft" : 32768,
+      "iS" : 25756,
+      "oA" : 0,
+      "oAP" : "\/avatar\/lola-guilloteau-hd.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/lola-guilloteau.png" : {
+      "ft" : 32768,
+      "iS" : 2183,
+      "oA" : 0,
+      "oAP" : "\/avatar\/lola-guilloteau.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/avatar\/lola-guilloteau.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/avatar\/lola-guilloteau.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/avatar\/ludovic-dury-hd.png" : {
       "ft" : 32768,
       "iS" : 32301,
