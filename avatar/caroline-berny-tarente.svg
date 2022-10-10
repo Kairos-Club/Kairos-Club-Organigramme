@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>caroline-berny-tarente</title>
+    <g id="caroline-berny-tarente" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <g id="Group-8" transform="translate(12.990348, 32.196230)">
+            <ellipse id="Oval" fill="#FFFFFF" transform="translate(11.009652, 11.009652) rotate(-45.000000) translate(-11.009652, -11.009652) " cx="11.0096524" cy="11.0096524" rx="5.68122496" ry="9.88877482"></ellipse>
+            <ellipse id="Oval-Copy-4" fill="#000000" cx="14.0096524" cy="9.30377007" rx="3" ry="3.5"></ellipse>
+        </g>
+        <g id="Group-6" transform="translate(44.990348, 32.196230)">
+            <ellipse id="Oval-Copy" fill="#FFFFFF" transform="translate(11.009652, 11.009652) rotate(-315.000000) translate(-11.009652, -11.009652) " cx="11.0096524" cy="11.0096524" rx="5.68122496" ry="9.88877482"></ellipse>
+            <ellipse id="Oval-Copy-5" fill="#000000" transform="translate(8.009652, 9.303770) rotate(-360.000000) translate(-8.009652, -9.303770) " cx="8.00965243" cy="9.30377007" rx="3" ry="3.5"></ellipse>
+        </g>
+        <path d="M22.2012557,36.7727055 L42.7649481,44.75 L8.49212735,58.0454908 L22.2012557,36.7727055 Z M57.7987443,36.7727055 L71.5078727,58.0454908 L37.2350519,44.75 L57.7987443,36.7727055 Z M44.010664,6.62259159 L22.9987443,39.2272945 L8.9907979,33.7931773 L44.010664,6.62259159 Z M35.989336,6.62259159 L71.0092021,33.7931773 L57.0012557,39.2272945 L35.989336,6.62259159 Z" id="Path-3" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"></path>
+        <path d="M55,62 C46.997405,70 34.0028265,70 26,62" id="Stroke-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <line x1="37.5" y1="57.5" x2="43.5" y2="57.5" id="Line-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></line>
+    </g>
+</svg>
