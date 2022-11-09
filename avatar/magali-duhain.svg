@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>magali-duhain</title>
+    <g id="magali-duhain" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <g id="Group-3" transform="translate(12.000000, 42.024505)" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M56,5.97549499 C53.3333333,1.99183166 50.6666667,0 48,0 C45.3333333,0 42.6666667,1.99183166 40,5.97549499" id="Triangle-Copy"></path>
+            <path d="M16,5.97549499 C13.3333333,1.99183166 10.6666667,0 8,0 C5.33333333,0 2.66666667,1.99183166 0,5.97549499" id="Triangle-Copy-3"></path>
+        </g>
+        <rect id="Rectangle" fill="#000000" transform="translate(40.000000, 69.000000) scale(1, -1) translate(-40.000000, -69.000000) " x="33" y="68" width="14" height="2" rx="1"></rect>
+        <g id="Group" transform="translate(29.739979, 51.911552)" fill="#000000">
+            <rect id="Rectangle" transform="translate(2.260021, 5.088448) scale(1, -1) rotate(-75.000000) translate(-2.260021, -5.088448) " x="-2.73997895" y="4.08844818" width="10" height="2" rx="1"></rect>
+            <rect id="Rectangle" transform="translate(18.260021, 5.088448) scale(-1, -1) rotate(-75.000000) translate(-18.260021, -5.088448) " x="13.2600211" y="4.08844818" width="10" height="2" rx="1"></rect>
+            <ellipse id="Oval" transform="translate(10.260021, 9.088448) rotate(-180.000000) translate(-10.260021, -9.088448) " cx="10.2600211" cy="9.08844818" rx="8" ry="2"></ellipse>
+        </g>
+        <g id="Group-2" transform="translate(40.000000, 57.500000) rotate(-180.000000) translate(-40.000000, -57.500000) translate(9.000000, 53.000000)" stroke="#000000" stroke-linecap="round" stroke-width="2">
+            <line x1="18.3214286" y1="8.6875" x2="0.678571429" y2="4.3125" id="Line" transform="translate(9.500000, 6.500000) scale(1, -1) rotate(360.000000) translate(-9.500000, -6.500000) "></line>
+            <line x1="19" y1="1" x2="1.35714286" y2="-1.13686838e-13" id="Line" transform="translate(10.178571, 0.500000) scale(1, -1) rotate(360.000000) translate(-10.178571, -0.500000) "></line>
+            <line x1="61.3214286" y1="8.6875" x2="43.6785714" y2="4.3125" id="Line" transform="translate(52.500000, 6.500000) scale(-1, -1) rotate(360.000000) translate(-52.500000, -6.500000) "></line>
+            <line x1="60.6428571" y1="1" x2="43" y2="-1.13686838e-13" id="Line" transform="translate(51.821429, 0.500000) scale(-1, -1) rotate(360.000000) translate(-51.821429, -0.500000) "></line>
+        </g>
+        <path d="M64,13 L72,29 C69.3333333,25.0163367 66.6666667,23.024505 64,23.024505 C61.3333333,23.024505 58.6666667,25.0163367 56,29 L64,13 Z" id="Triangle-Copy" stroke="#000000" stroke-width="2" fill="#000000" stroke-linejoin="round" transform="translate(64.000000, 21.000000) rotate(-345.000000) translate(-64.000000, -21.000000) "></path>
+        <path d="M16,13 L24,29 C21.3333333,25.0163367 18.6666667,23.024505 16,23.024505 C13.3333333,23.024505 10.6666667,25.0163367 8,29 L16,13 Z" id="Triangle-Copy-2" stroke="#000000" stroke-width="2" fill="#000000" stroke-linejoin="round" transform="translate(16.000000, 21.000000) rotate(-15.000000) translate(-16.000000, -21.000000) "></path>
+    </g>
+</svg>
