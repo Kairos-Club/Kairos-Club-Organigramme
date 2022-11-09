@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>yasmine</title>
+    <g id="yasmine" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle" fill="#000000" x="0" y="0" width="80" height="80" rx="40"></rect>
+        <g id="Group-9" transform="translate(51.000000, 20.277568)">
+            <rect id="Rectangle-Copy-3" fill="#FFFFFF" transform="translate(12.000000, 15.722432) scale(1, -1) rotate(-120.000000) translate(-12.000000, -15.722432) " x="-5" y="13.7224319" width="34" height="4" rx="2"></rect>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="12" cy="15.7224319" r="12"></circle>
+            <circle id="Oval-Copy" fill="#000000" cx="12" cy="15.7224319" r="7"></circle>
+        </g>
+        <g id="Group-9" transform="translate(17.000000, 36.000000) scale(-1, 1) translate(-17.000000, -36.000000) translate(5.000000, 20.277568)">
+            <rect id="Rectangle-Copy-3" fill="#FFFFFF" transform="translate(12.000000, 15.722432) scale(1, -1) rotate(-120.000000) translate(-12.000000, -15.722432) " x="-5" y="13.7224319" width="34" height="4" rx="2"></rect>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="12" cy="15.7224319" r="12"></circle>
+            <circle id="Oval-Copy" fill="#000000" cx="12" cy="15.7224319" r="7"></circle>
+        </g>
+        <g id="Group-10" transform="translate(31.000000, 56.000000)">
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="9" cy="9" r="9"></circle>
+            <circle id="Oval-Copy" fill="#000000" cx="9" cy="9" r="6"></circle>
+        </g>
+        <path d="M67,36.4589754 C40.2903226,50.5837988 49.7194339,13.6698957 40.2903226,13.8032052 C30.1759549,13.9462029 40.2903226,50.8904426 13,36.4589754" id="Stroke-2-Copy" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(40.000000, 26.802845) rotate(-180.000000) translate(-40.000000, -26.802845) "></path>
+        <path d="M71,55.1000932 C40.3333333,58.9029303 51.15935,48.9645717 40.3333333,49.0004628 C28.7205409,49.0389621 40.3333333,58.9854882 9,55.1000932" id="Stroke-2-Copy" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" transform="translate(40.000000, 52.500366) scale(1, -1) rotate(180.000000) translate(-40.000000, -52.500366) "></path>
+    </g>
+</svg>
